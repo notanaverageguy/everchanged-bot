@@ -1,0 +1,25 @@
+{
+    "token":"",
+    "clientId": "",
+    "guildId": "",
+    "owner": "",
+    "mysql": {
+        "host" : "",
+        "user" : "",
+        "password" : "",
+        "database" : ""
+    },
+    "geninfo": {
+        "dirt": {"price": 70, "value": 1},
+        "stone": {"price": 5600, "value": 8},
+        "copper": {"price": 32800, "value": 42},
+        "iron": {"price": 216000, "value": 260},
+        "redstone": {"price": 1360000, "value": 1550},
+        "lapis": {"price": 8800000, "value": 10000},
+        "gold": {"price": 54400000, "value": 60000 },
+        "diamond": {"price": 352000000, "value": 370000},
+        "emerald": {"price": 2252000000, "value": 2300000},
+        "netherite": {"price": 14480000000, "value": 14300000},
+        "estrogen": {"price": 200000000000, "value": 0.01}
+    }
+}
